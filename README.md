@@ -29,6 +29,10 @@
 
 <img src="Resources/Images/Simple ML Model - More Data (Title Only).png" width="350"><br>
 
+
+<img src="Resources/Images/Simple ML Model - More Data (Title Only).png" width="350"><br>
+
+
 <img src="Resources/Images/Simple ML Model - More Data (ALL).png" width="350"><br>
 
 
@@ -36,10 +40,19 @@
 ## Conclusion
 - OpenAI Based model showed a significantly higher accuracy rate of 91% vs 75% (for best performing simple model), which supported our initial hypothesis
 	- OpenAI model used only 20% of the data available to train, yet still delivered superior results
+
 - The high accuracy classification rate of the OpenAI model proves the viability of using this ML-based model to determine the validity of news articles in a very time-efficient way
 - This could make a powerful research tool that allows quick discard of invalid/fake news from a particular analysis on various economic, financial, scientific, and political topics
 
 ## Next Steps
 - We’ve discussed the possibility of doing additional testing of articles and user inputs  that were not part of our original dataset
 - We’ve also considered leveraging OpenAI Model to do different types of assessment/classification of news articles to identify hate speech, and political leanings, or to determine the overall subject of the publication (economy, politics, travel, science, etc.)
+
+- The high accuracy classification rate of the OpenAI model proves viability of using this ML based model to determine the validity of news articles in a very time efficient way
+- This could make a powerful research tool which allows quickly discard invalid/fake news from a particular analysis on various economic, financial, scientific and political topics
+
+## Next Steps
+- We’ve discussed possibility of doing additional testing of articles and user inputs  that were not part of our original data set
+- We’ve also considered leveraging OpenAI Model to do different type of assessment/classification of news articles to identify hate speech, political leanings, or to determine overall subject of the publication (economy, politics, travel, science, etc.)
+
 - Determining which words were more likely associated with fake or real classifications
