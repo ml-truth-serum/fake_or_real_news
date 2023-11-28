@@ -21,9 +21,9 @@
 ## Model Training
 - Creating training and testing datasets with the following breakdown (2/3 training data vs. 1/3 Testing data)
 
-<img src="Resources/images/Simple ML Model - More Data (Title Only).png" width="350"><br>
+<img src="Resources/Images/Simple ML Model - More Data (Title Only).png" width="350"><br>
 
-<img src="Resources/images/Simple ML Model - More Data (ALL).png" width="350"><br>
+<img src="Resources/Images/Simple ML Model - More Data (ALL).png" width="350"><br>
 
 
 
@@ -33,4 +33,7 @@
 - The high accuracy classification rate of the OpenAI model proves viability of using this ML based model to determine the validity of news articles in a very time efficient way
 - This could make a powerful research tool which allows quickly discard invalid/fake news from a particular analysis on various economic, financial, scientific and political topics
 
-
+## Next Steps
+- We’ve discussed possibility of doing additional testing of articles and user inputs  that were not part of our original data set
+- We’ve also considered leveraging OpenAI Model to do different type of assessment/classification of news articles to identify hate speech, political leanings, or to determine overall subject of the publication (economy, politics, travel, science, etc.)
+- Determining which words were more likely associated with fake or real classifications
