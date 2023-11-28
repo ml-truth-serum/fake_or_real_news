@@ -27,9 +27,6 @@
 - Creating training and testing datasets with the following breakdown (20% training data vs. 80% Testing data) for OpenAI  models
 
 
-## Model Training
-- Creating training and testing datasets with the following breakdown (2/3 training data vs. 1/3 Testing data)
-
 <img src="Resources/Images/Simple ML Model - More Data (Title Only).png" width="350"><br>
 
 <img src="Resources/Images/Simple ML Model - More Data (ALL).png" width="350"><br>
