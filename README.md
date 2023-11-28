@@ -31,11 +31,11 @@
 
 <img src="Resources/Images/Simple ML Model - More Data (ALL).png" width="350"><br>
 
-<img src="Resources/Images/OpenModel-01).png" width="350"><br>
+<img src="Resources/Images/OpenModel-01.png" width="350"><br>
 
-<img src="Resources/Images/OpenModel-02).png" width="350"><br>
+<img src="Resources/Images/OpenModel-02.png" width="350"><br>
 
-<img src="Resources/Images/OpenModel-03).png" width="350"><br>
+<img src="Resources/Images/OpenModel-03.png" width="350"><br>
 
 
 ## Conclusion
